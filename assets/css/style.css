@@ -534,10 +534,7 @@ p {
   left: 0;
   top: -58px;
 }
-.statistics-section {
-  background-image: url("../images/statistics-background.jpg");
-  padding: 112px 0 109px;
-}
+
 .statistics-section .statistics-sidelayer {
   position: absolute;
   top: -66px;
@@ -690,11 +687,7 @@ p {
 .pricing-section .pricing-box .get_started:hover {
   background-color: var(--e-global-color-bright-blue);
 }
-.available-section {
-  background-image: url("../images/available-background.jpg");
-  padding: 102px 0 114px;
-  overflow: hidden;
-}
+
 .available-section .available_content h2 {
   font-size: 57px;
   line-height: 75px;
@@ -826,11 +819,10 @@ p {
   box-shadow: none;
 }
 .accordian-section .accordion-card .btn-link:before {
-  content: "\f063";
+  content: "▼";
   position: absolute;
   right: -8px;
   top: 28%;
-  font-family: FontAwesome;
   display: inline-block;
   vertical-align: middle;
   color: var(--e-global-color-secondary);
@@ -838,7 +830,7 @@ p {
   line-height: 28px;
 }
 .accordian-section .accordion-card .collapsed:before {
-  content: "\f061";
+  content: "▶";
   color: var(--e-global-color-primary);
 }
 .accordian-section .accordian-inner .accordion-card:last-child {
@@ -849,12 +841,7 @@ p {
   top: -52px;
   left: 35px;
 }
-.sub-banner {
-  background: url("../images/sub-bannerbackground.png") center/cover no-repeat;
-  border-radius: 0 0 125px 125px;
-  position: relative;
-  z-index: 1;
-}
+
 .about-section,
 .outer_background {
   background-color: var(--e-global-color-Light-grayish-blue);
@@ -1011,11 +998,6 @@ p {
 .count-section .count-rightcontent .text1 {
   font-size: 22px;
   line-height: 36px;
-}
-.team-section .teams-background {
-  background-image: url("../images/team-background.jpg");
-  position: relative;
-  padding: 285px 0;
 }
 .team-section .teams-background figure {
   position: absolute;
@@ -1181,8 +1163,7 @@ p {
   margin-top: 0;
   padding: 0;
 }
-.outer_background .sub-banner {
-  background: url(../images/sub-bannerbackground.png) center/cover no-repeat;
-  border-radius: 0 0 125px 125px;
-  position: relative;
+
+.text-white a {
+  color: white;
 }
