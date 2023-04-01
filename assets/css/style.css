@@ -33,7 +33,7 @@ p {
 :root {
   --e-global-color-primary: #150d45;
   --e-global-banner-primary: #2354cc;
-  --e-global-color-secondary: #fc9409;
+  --e-global-color-secondary: #2354CC;
   --e-global-color-text: #4f4975;
   --e-global-color-green: #0e1f50;
   --e-global-color-white: #ffffff;
@@ -136,7 +136,6 @@ p {
   color: var(--e-global-color-white) !important;
 }
 .navbar-nav .nav-item a:hover {
-  color: var(--e-global-color-secondary) !important;
   background-color: transparent;
 }
 .navbar-nav .active > a {
@@ -161,8 +160,8 @@ p {
   padding-top: 0;
   padding-bottom: 0;
   display: flex;
-  align-items: baseline;
-  gap: 4px;
+  align-items: center;
+  gap: 16px;
 }
 .navbar-brand .internalize-icon {
   max-height: 38px;
@@ -309,6 +308,11 @@ p {
 .aboutus-section .aboutus_text {
   padding: 48px 0 0;
 }
+
+.hero-img {
+  max-width: 450px;
+}
+
 .basic-feature {
   padding-bottom: 69px;
 }
