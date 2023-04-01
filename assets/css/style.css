@@ -376,6 +376,7 @@ p {
 .basic-feature .feature-box figure {
   background: var(--e-global-color-Light-grayish-red);
   margin-bottom: 20px;
+  font-size: 32px;
 }
 .about-section .about_content .icon-size1:hover,
 .basic-feature .feature-box figure:hover,
