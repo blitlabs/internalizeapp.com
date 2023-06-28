@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/articles`,
   siteMetadata: {
-    title: `Internalize Articles`,
+    title: `Articles`,
     author: {
       name: `Internalize`,
       summary: ``,
