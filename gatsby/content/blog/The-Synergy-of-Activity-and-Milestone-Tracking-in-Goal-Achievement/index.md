@@ -1,5 +1,5 @@
 ---
-title: The Synergy of Activity and Milestone Tracking in Goal Achievement
+title: "The Synergy of Activity and Milestone Tracking in Goal Achievement"
 date: "2023-06-28T00:00:00.000Z"
 description: "The Synergy of Activity and Milestone Tracking in Goal Achievement"
 ---

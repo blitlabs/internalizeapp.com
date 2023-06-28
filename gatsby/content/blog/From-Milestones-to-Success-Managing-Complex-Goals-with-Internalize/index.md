@@ -1,5 +1,5 @@
 ---
-title: From Milestones to Success: Managing Complex Goals with Internalize
+title: "From Milestones to Success: Managing Complex Goals with Internalize"
 date: "2023-06-28T00:00:00.000Z"
 description: "From Milestones to Success: Managing Complex Goals with Internalize"
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Art of Goal Refinement: Staying on Track and Adapting to Change
+title: "The Art of Goal Refinement: Staying on Track and Adapting to Change"
 date: "2023-06-28T00:00:00.000Z"
 description: "The Art of Goal Refinement: Staying on Track and Adapting to Change"
 ---

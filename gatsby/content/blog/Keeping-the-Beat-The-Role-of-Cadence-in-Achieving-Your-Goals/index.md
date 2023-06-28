@@ -1,5 +1,5 @@
 ---
-title: Keeping the Beat: The Role of Cadence in Achieving Your Goals
+title: "Keeping the Beat: The Role of Cadence in Achieving Your Goals"
 date: "2023-06-28T00:00:00.000Z"
 description: "Keeping the Beat: The Role of Cadence in Achieving Your Goals"
 ---

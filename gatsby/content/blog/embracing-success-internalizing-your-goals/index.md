@@ -1,5 +1,5 @@
 ---
-title: Embracing Success: Internalizing Your Goals
+title: "Embracing Success: Internalizing Your Goals"
 date: "2023-06-28T00:00:00.000Z"
 description: "Embracing Success: Internalizing Your Goals"
 ---

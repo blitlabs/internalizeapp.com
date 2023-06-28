@@ -1,5 +1,5 @@
 ---
-title: Mastering the Dichotomy of Control for Effective Goal Achievement
+title: "Mastering the Dichotomy of Control for Effective Goal Achievement"
 date: "2023-06-28T00:00:00.000Z"
 description: "Mastering the Dichotomy of Control for Effective Goal Achievement"
 ---

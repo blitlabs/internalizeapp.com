@@ -1,5 +1,5 @@
 ---
-title: The Power of Repetition: Targeting Long-Term Success with Cumulative Goals
+title: "The Power of Repetition: Targeting Long-Term Success with Cumulative Goals"
 date: "2023-06-28T00:00:00.000Z"
 description: "The Power of Repetition: Targeting Long-Term Success with Cumulative Goals"
 ---
