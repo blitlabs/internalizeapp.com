@@ -46,7 +46,7 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "mv public ../docs/articles",
+    "deploy": "rm -rf ../docs/articles && mv public ../docs/articles",
     "builddeploy": "npm run build && npm run deploy"
   }
 }
