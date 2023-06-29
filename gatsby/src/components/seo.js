@@ -41,6 +41,10 @@ const Seo = ({ description, lang, title, children }) => {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
       {children}
+      <script src="//internalizeapp.com/assets/js/jquery-3.6.0.min.js"> </script>
+      <script src="//internalizeapp.com/assets/js/bootstrap.min.js"> </script>
+      <script src="//internalizeapp.com/assets/js/animation_links.js"></script>
+      <script src="//internalizeapp.com/assets/js/animation.js"></script>
     </>
   )
 }

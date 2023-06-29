@@ -27,23 +27,22 @@ const Bio = () => {
   const author = data.site.siteMetadata?.author;
 
   return (
-    <div className="bio">
-      <StaticImage
-        className="bio-avatar"
-        layout="fixed"
-        formats={["auto", "webp", "avif"]}
-        src="../images/profile-pic.png"
-        width={50}
-        height={50}
-        quality={95}
-        alt="Profile picture"
-      />
-      {author?.name && (
+    <a href="https://apps.apple.com/app/internalize/id6446457429" title="Internalize App" target="_blank">
+      <div className="bio">
+        <StaticImage
+          layout="fixed"
+          formats={["auto", "webp", "avif"]}
+          src="../images/app-screen.png"
+          width={320}
+          quality={95}
+          alt="App Icon"
+        />
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+          <strong>Internalize</strong> is the app that helps you focus on what's within your control and achieve the impossible.
+          <a className="btn btn-primary" role="button">Download Internalize</a>
         </p>
-      )}
-    </div>
+      </div>
+    </a>
   )
 }
 
