@@ -8,8 +8,8 @@ const Layout = ({ location, title, children }) => {
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-light">
           <a className="navbar-brand" href="/">
-            <img src="/assets/images/internalize-icon.svg" alt="" className="img-fluid internalize-icon"/><img
-              src="/assets/images/internalize-text.svg" alt="" className="img-fluid internalize-text"/>
+            <img src="//internalizeapp.com/assets/images/internalize-icon.svg" alt="" className="img-fluid internalize-icon"/><img
+              src="//internalizeapp.com/assets/images/internalize-text.svg" alt="" className="img-fluid internalize-text"/>
           </a>
           <button className="navbar-toggler collapsed" type="button" data-toggle="collapse"
                   data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -21,13 +21,16 @@ const Layout = ({ location, title, children }) => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
-                <a className="nav-link" href="#about">About</a>
+                <a className="nav-link" href="/#about">About</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#basic-feature">Features</a>
+                <a className="nav-link" href="/#basic-feature">Features</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#faq">FAQ</a>
+                <a className="nav-link" href="/#faq">FAQ</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/articles">Articles</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link try_free_btn" href="https://apps.apple.com/app/internalize/id6446457429"
